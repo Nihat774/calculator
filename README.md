@@ -1,1 +1,1 @@
-# project 1 - to create calculator
+# to create calculator
